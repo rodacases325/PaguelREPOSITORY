@@ -164,19 +164,6 @@ nav a {
         font-size: 16px;
         line-height: 1.6;
     }
-    
-    .sticky-panel {
-        position: sticky;
-        top: 20px; /* distance from top of viewport */
-        z-index: 10;
-    }
-    .enroll{
-        background-color: yellow;
-        color: #0019d4;
-        padding: 10px;
-        border-radius: 5px;
-        text-decoration: none;
-    }
     /*announcmenets*/
 
     .announcements-section {
