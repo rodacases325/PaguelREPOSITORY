@@ -32,7 +32,7 @@ nav a {
 .hero {
     display: flex;
     padding: 20px;
-    background: linear-gradient(to right, #1e3c72,#2a5298)
+    background: linear-gradient(to top, #33ccff 10%, #666699 90%);
 }
 .hero-text {
     flex: 1;
